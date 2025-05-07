@@ -1,7 +1,7 @@
 
 
 - 🔭 Atualmente trabalho como estagiário na Condlink.
-- 🌱 Tenho conhecimnetos em Java e C# para backend, React para frontend.
+- 🌱 Utilizo essas tecnologias no meu dia a dia, Java, C# e React.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">

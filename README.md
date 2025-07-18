@@ -36,6 +36,12 @@ Sou apaixonado por tecnologia e estou sempre buscando aprimorar meus conheciment
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 ### Conecte-se comigo!
 
 Quer saber mais sobre meu trabalho, trocar ideias ou discutir oportunidades? Fique à vontade para me conectar nas minhas redes sociais:

@@ -32,7 +32,7 @@ Minha experiência se estende por todo o ciclo de desenvolvimento, desde o front
 ---
 
 ✨ **Minha Filosofia:**
-Sou apaixonado por tecnologia e estou sempre buscando aprimorar meus conhecimentos e acompanhar as últimas tendências do desenvolvimento web, com um foco constante em entregar **soluções eficientes** e que priorizem a **experiência do usuário**.
+Apaixonado por tecnologia, música e esportes, busco constantemente novos conhecimentos, sempre priorizando o equilíbrio essencial da vida.
 
 ---
 

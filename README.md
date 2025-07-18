@@ -36,9 +36,11 @@ Sou apaixonado por tecnologia e estou sempre buscando aprimorar meus conheciment
 
 ---
 
-## Meu Gráfico de Contribuições
-
-[![Meu Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=VictorHugo1997&show_icons=true&theme=pacman&hide_border=true&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorHugo1997/VictorHugo1997/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorHugo1997/VictorHugo1997/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VictorHugo1997/VictorHugo1997/output/pacman-contribution-graph.svg">
+</picture>
 
 ### Conecte-se comigo!
 

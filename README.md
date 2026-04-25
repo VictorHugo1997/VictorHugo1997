@@ -1,20 +1,13 @@
-### Olá! Eu sou o Victor, Desenvolvedor Fullstack! 👋
+### Olá! Eu sou o Victor👋
 
 ---
 
 🚀 **Sobre Mim:**
-Sou um **Desenvolvedor Fullstack** com paixão por criar soluções tecnológicas eficientes e que realmente fazem a diferença. Atualmente, atuo como **Estagiário na Condlink**, onde contribuo para o desenvolvimento de **APIs escaláveis e eficientes** focadas em soluções para portarias e condomínios.
-
----
-
-💻 **Minhas Ferramentas & Metodologias:**
-Minha experiência se estende por todo o ciclo de desenvolvimento, desde o frontend ao backend, com foco em entregar sistemas robustos e de alta performance.
-
-* **Frontend:** Trabalho principalmente com **React**, buscando uma excelente experiência do usuário.
-* **Backend:** Utilizo **Golang** e **Java com Spring Boot** para construir sistemas robustos e escaláveis.
-* **Bancos de Dados:** Tenho experiência com **MySQL**, **PostgreSQL** e **MongoDB**, escolhendo a solução ideal para cada necessidade.
-* **Versionamento:** Possuo **experiência sólida com Git e GitHub**, garantindo rastreabilidade e colaboração efetiva em equipes.
-* **Metodologias Ágeis:** Atuo em **ambientes ágeis**, com uso contínuo de **Scrum e Kanban**, organizando tarefas e demandas através de backlogs e criação de cards.
+Sou desenvolvedor .NET e atuo como Analista de Soluções, com experiência em ambientes corporativos e foco em estabilidade, monitoramento e suporte a sistemas.
+ 
+Tenho experiência com validação de backups, administração de serviços de e-mail e diretório (como Exchange e Active Directory), além de atuação com ferramentas de monitoramento como Zabbix e Opmon.
+ 
+Também possuo experiência como desenvolvedor freelancer em C#, criando soluções personalizadas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">

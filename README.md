@@ -10,10 +10,6 @@ Tenho experiência com validação de backups, administração de serviços de e
 Também possuo experiência como desenvolvedor freelancer em C#, criando soluções personalizadas.
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Victor-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
 ---
 
 <picture>
@@ -29,5 +25,7 @@ Quer saber mais sobre meu trabalho, trocar ideias ou discutir oportunidades? Fiq
 <div>  
   <a href="https://instagram.com/victoroliveira_97/" target
 ="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-oliveira2817" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/victor-oliveira2817" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <img align="center" alt="Victor-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+

@@ -9,6 +9,7 @@ Tenho experiência com validação de backups, administração de serviços de e
  
 Também possuo experiência como desenvolvedor freelancer em C#, criando soluções personalizadas.
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Victor-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">

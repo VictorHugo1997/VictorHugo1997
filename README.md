@@ -3,11 +3,10 @@
 ---
 
 🚀 **Sobre Mim:**
-Sou desenvolvedor .NET e atuo como Analista de Soluções, com experiência em ambientes corporativos e foco em estabilidade, monitoramento e suporte a sistemas.
- 
-Tenho experiência com validação de backups, administração de serviços de e-mail e diretório (como Exchange e Active Directory), além de atuação com ferramentas de monitoramento como Zabbix e Opmon.
- 
-Também possuo experiência como desenvolvedor freelancer em C#, criando soluções personalizadas.
+Sou Desenvolvedor de Software e atuo como freelancer por meio de empresa própria, desenvolvendo soluções personalizadas para empresas e profissionais. Tenho experiência no desenvolvimento de aplicações web, APIs e sistemas corporativos utilizando C#, .NET, Java e React, participando de todas as etapas do ciclo de desenvolvimento, desde o levantamento de requisitos até a implementação e manutenção.
+Possuo conhecimento em arquitetura de software, integração de sistemas, bancos de dados e boas práticas de desenvolvimento, sempre buscando criar aplicações escaláveis, performáticas e alinhadas às necessidades do negócio.
+
+Complementando minha experiência como desenvolvedor, também atuo como Analista de Soluções em ambiente corporativo, com foco em observabilidade, monitoramento e sustentação de sistemas críticos. Tenho experiência com Control-M, Zabbix e OpMon, além de validação de backups, acompanhamento de rotinas operacionais, Active Directory, Exchange e suporte à infraestrutura de TI.
 
 
 ---
